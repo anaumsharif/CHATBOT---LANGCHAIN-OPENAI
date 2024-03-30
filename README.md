@@ -1,4 +1,4 @@
-# CHATBOT USING LANGCHAIN & STREAMLIT 
+# CHATBOT USING LANGCHAIN 
 LangChain, an advanced language model.
 LangChain stands out as a cutting-edge model capable of understanding and generating human-like text.
 The chatbot utilizes LangChain to engage in natural language conversations with users.
